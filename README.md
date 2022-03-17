@@ -2,7 +2,7 @@
 
 My PyTorch implementation of the WaveletCNN architecture by Fujieda et al. ( https://arxiv.org/abs/1707.07394 )
 
-Details were based on the Caffe implmentation: https://github.com/shinfj/WaveletCNN_for_TextureClassification
+Details were based on the Caffe implementation: https://github.com/shinfj/WaveletCNN_for_TextureClassification
 
 ## Requirements
 
